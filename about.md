@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## Xiaoxu Niu
+* Research Scientist at Gentex Corporation
+* Materials science backgroud; analog electronics hobbyist; electro-optics and coding amateur
 
