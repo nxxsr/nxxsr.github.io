@@ -5,7 +5,7 @@ This blog is created with Jeremy Howard's fast_template on github. It's a simple
 I will be writing stuff I find useful here in the format of technical notes. 
 
 Jeremy's 4-part tutorial on fast_template can be found here:
-https://www.fast.ai/2020/01/16/fast_template/
+[fast_template](https://www.fast.ai/2020/01/16/fast_template/)
 
 His machine learning online course is also awesome.
-https://course.fast.ai/
+[fast.ai](https://course.fast.ai/)
